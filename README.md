@@ -50,7 +50,7 @@ cd fifo-verilog
 
 Compile the design and testbench:
 
-iverilog -o fifo.vvp tb_fifo_simple.v fifo_simple.v
+iverilog -o fifo.vvp tb_fifo.v fifo.v
 
 
 Run the simulation:
